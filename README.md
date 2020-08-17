@@ -1,2 +1,2 @@
 # Laboratorio-de-M-quinas
-Repositorio dedicado 
+Repositorio dedicado al ramo Laboratorio de Maquinas
